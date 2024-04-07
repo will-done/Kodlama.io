@@ -1,0 +1,7 @@
+C:\Users\vilda\source\repos\MaskeTakip\Workaround\bin\Debug\Workaround.exe.config
+C:\Users\vilda\source\repos\MaskeTakip\Workaround\bin\Debug\Workaround.exe
+C:\Users\vilda\source\repos\MaskeTakip\Workaround\bin\Debug\Workaround.pdb
+C:\Users\vilda\source\repos\MaskeTakip\Workaround\obj\Debug\Workaround.csproj.AssemblyReference.cache
+C:\Users\vilda\source\repos\MaskeTakip\Workaround\obj\Debug\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\vilda\source\repos\MaskeTakip\Workaround\obj\Debug\Workaround.exe
+C:\Users\vilda\source\repos\MaskeTakip\Workaround\obj\Debug\Workaround.pdb
